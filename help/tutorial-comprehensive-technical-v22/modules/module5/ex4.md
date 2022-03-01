@@ -13,21 +13,11 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 
 ## 5.4.1 Attribution AI - Create Schema
 
-* Create a new schema using the Experience Events class:
-
-* Add `End User ID Details` field group to your Experience Event class schema:
-
-* Add `Consumer Experience Events` field group to your schema:
-
-* Make sure your `mcid.id` field is recognized as primary identity:
-
-* Name your schema: `LDAP - Demo System - Customer Experience Event AttributionAI` and enable it for profile
+Reuse or create the schema from 5.1
 
 ## 5.4.2 Attribution AI - Create Dataset
 
-* Use the `Create dataset from schema` workflow:
-* Select your new schema from 5.4.1:
-* Name your new dataset: `LDAP - Demo System - Customer Experience Event AttributionAI Dataset`:
+Reuse or create the dataset from 5.1
 
 ## 5.4.3 Attribution AI - Ingest Data
 
@@ -45,9 +35,9 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 
 * Select your dataset:
 
-* Select the Media channel field in your dataset:
+* Select the Media channel field in your dataset: `channel._type`
 
-* Define your conversion events:
+* Define your conversion events: Purchase Includes commerce.order.purchaseID exists
 
 * Define your touchpoints:
   - Email: Email Includes channel._type equals https://ns.adobe.com/xdm/channel-types/email
