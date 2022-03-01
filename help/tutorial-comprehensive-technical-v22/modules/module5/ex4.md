@@ -14,11 +14,13 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 ## 5.4.1 Attribution AI - Create Schema
 
 Reuse or create the schema from 5.1
+
 <img width="525" alt="Screenshot 2022-03-01 at 15 06 52" src="https://user-images.githubusercontent.com/61875393/156184758-acb05184-22fc-454d-bd65-a15261936e84.png">
 
 ## 5.4.2 Attribution AI - Create Dataset
 
 Reuse or create the dataset from 5.1
+
 <img width="531" alt="Screenshot 2022-03-01 at 15 08 16" src="https://user-images.githubusercontent.com/61875393/156184784-a6023441-a697-45a3-bf4f-3d8eee7d0a08.png">
 
 ## 5.4.3 Attribution AI - Ingest Data
@@ -28,6 +30,7 @@ Reuse or create the dataset from 5.1
 * Enable dataset for Profile:
 
 * Drag and drop the file onto the dataset view `Add data`:
+
 <img width="528" alt="Screenshot 2022-03-01 at 15 09 59" src="https://user-images.githubusercontent.com/61875393/156184803-7f2449a8-dcda-40db-bcec-b1c78be2a361.png">
 
 ## 5.4.4 Attribution AI - Configure the service (video)
