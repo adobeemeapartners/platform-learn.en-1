@@ -63,7 +63,7 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 <img width="529" alt="Screenshot 2022-03-01 at 15 17 34" src="https://user-images.githubusercontent.com/61875393/156186222-259e91bd-12fb-4c55-a0f2-148d07398cf0.png">
 
 
-* Set options: Leave as is.
+* Set options: Change frequency to Monthly, keep the rest as is.
 
 <img width="530" alt="Screenshot 2022-03-01 at 15 18 35" src="https://user-images.githubusercontent.com/61875393/156186245-98b53044-e0b6-4679-975f-4042764e8503.png">
 
