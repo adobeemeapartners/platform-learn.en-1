@@ -50,9 +50,10 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 * Define your conversion events:
 
 * Define your touchpoints:
-  - Email
-  - Social
-  - Display
+  - Email: Email Includes channel._type equals https://ns.adobe.com/xdm/channel-types/email
+  - Social: Social Includes channel._type equals https://ns.adobe.com/xdm/channel-types/social
+  - Display: Display Includes channel._type equals https://ns.adobe.com/xdm/channel-types/display
+  - Search: Search Includes channel._type equals https://ns.adobe.com/xdm/channel-types/search
 
 * Set options: Leave as is.
 
