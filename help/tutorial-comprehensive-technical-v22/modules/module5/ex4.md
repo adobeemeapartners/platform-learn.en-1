@@ -25,19 +25,22 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 
 ## 5.4.2 Attribution AI - Create Dataset
 
-Create or reuse the dataset as defined in https://github.com/adobeemeapartners/platform-learn.en-1/blob/main/help/tutorial-comprehensive-technical-v22/modules/module5/ex1.md
+* Use the `Create dataset from schema` workflow:
+* Select your new schema from 5.4.1:
+* Name your new dataset: `LDAP - Demo System - Customer Experience Event AttributionAI Dataset`:
 
 ## 5.4.3 Attribution AI - Ingest Data
 
-You can download a new dataset here LINK.
+* You can download a new dataset here: 
+* Drag and drop the file onto the dataset view `Add data`:
 
 ## 5.4.4 Attribution AI - Configure the service (video)
 
-https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/attribution-ai/user-guide.html?lang=en#dataset-completeness 
+* Watch the into video here: https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/attribution-ai/user-guide.html?lang=en#dataset-completeness 
 
 ## 5.4.5 Attribution AI - Analyze the results (video)
 
-https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/attribution-ai/discover-insights.html?lang=en
+* Watch the intro video here: https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/attribution-ai/discover-insights.html?lang=en
 
 
 Next Step: [Summary and benefits](./summary.md)
