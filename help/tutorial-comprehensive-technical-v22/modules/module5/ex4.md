@@ -32,11 +32,27 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 ## 5.4.3 Attribution AI - Ingest Data
 
 * You can download a new dataset here: 
+
 * Drag and drop the file onto the dataset view `Add data`:
 
 ## 5.4.4 Attribution AI - Configure the service (video)
 
 * Watch the into video here: https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/attribution-ai/user-guide.html?lang=en#dataset-completeness 
+
+* Name your application: `LDAP attributionAI demo 20220301 02`
+
+* Select your dataset:
+
+* Select the Media channel field in your dataset:
+
+* Define your conversion events:
+
+* Define your touchpoints:
+- Email
+- Social
+- Display
+
+* Set options: Leave as is.
 
 ## 5.4.5 Attribution AI - Analyze the results (video)
 
