@@ -33,6 +33,8 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 
 * You can download a new dataset here: 
 
+* Enable dataset for Profile:
+
 * Drag and drop the file onto the dataset view `Add data`:
 
 ## 5.4.4 Attribution AI - Configure the service (video)
