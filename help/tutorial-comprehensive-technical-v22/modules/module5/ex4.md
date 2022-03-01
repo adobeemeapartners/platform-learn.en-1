@@ -48,9 +48,9 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 * Define your conversion events:
 
 * Define your touchpoints:
-- Email
-- Social
-- Display
+  - Email
+  - Social
+  - Display
 
 * Set options: Leave as is.
 
