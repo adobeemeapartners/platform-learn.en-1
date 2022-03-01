@@ -13,7 +13,15 @@ With Attribution AI, marketers can measure and optimize marketing and advertisin
 
 ## 5.4.1 Attribution AI - Create Schema
 
-Create or reuse the schema as defined in https://github.com/adobeemeapartners/platform-learn.en-1/blob/main/help/tutorial-comprehensive-technical-v22/modules/module5/ex1.md
+* Create a new schema using the Experience Events class:
+
+* Add `End User ID Details` field group to your Experience Event class schema:
+
+* Add `Consumer Experience Events` field group to your schema:
+
+* Make sure your `mcid.id` field is recognized as primary identity:
+
+* Name your schema: `LDAP - Demo System - Customer Experience Event AttributionAI` and enable it for profile
 
 ## 5.4.2 Attribution AI - Create Dataset
 
